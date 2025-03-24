@@ -40,6 +40,8 @@ The code follows these steps:
 🔹 Add an **LCD display** 📟 to show BP readings  
 🔹 Improve accuracy with **better sensors**  
 🔹 Display data on a **mobile app** 📱  
+## 📄 Report  
+📌 **Full project documentation:** [Download Report](https://drive.google.com/file/d/14sesm3dKH9klgh98Rw6w9Gc2fg4KZ0NS/view?usp=sharing)  
 
 ## 👤 Author  
 📌 **Ahmed Attay**  
