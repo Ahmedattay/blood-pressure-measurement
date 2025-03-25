@@ -1,4 +1,4 @@
-# 🩺 Blood Pressure Monitor Simulation with Arduino
+# 🩺 Blood Pressure Monitor measurement with Arduino
 
 ## 🚀 Overview  
 This Arduino-based project simulates a **blood pressure monitor** using a **microphone** 🎤 as a pulse sensor, a **buzzer** 🔊 to mimic heartbeat sounds, and a **motor pump** 💨 controlled by an **H-Bridge** 🔁. The system inflates a cuff, detects the first pulse, and displays the **simulated BP reading** 📊.
